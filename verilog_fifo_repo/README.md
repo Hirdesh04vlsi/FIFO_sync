@@ -9,7 +9,6 @@ verilog_fifo_repo/
 │── src/        # Verilog source code
 │   ├── sync_fifo.v
 │   └── tb_sync_fifo.v
-│── docs/       # Documentation
 │── images/     # Block diagrams & visuals
 │── README.md   # Project overview
 ```
@@ -34,12 +33,4 @@ verilog_fifo_repo/
 - CDC (Clock Domain Crossing) in SoCs  
 - Audio/Video streaming pipelines  
 
-## 📊 Block Diagram
-![FIFO Block Diagram]("C:\Users\hp\Downloads\maxresdefault-Photoroom.png")
-
-## 🔬 Waveform Example
-(Simulated using **GTKWave**)
-![FIFO Simulation]("C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-09-02 230622.png")
-
----
 ✍️ Author: Hirdesh Pamnani  
