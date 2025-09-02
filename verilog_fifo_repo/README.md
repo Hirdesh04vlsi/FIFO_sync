@@ -35,12 +35,11 @@ verilog_fifo_repo/
 - Audio/Video streaming pipelines  
 
 ## 📊 Block Diagram
-![FIFO Block Diagram](images/fifo_block.png)
+![FIFO Block Diagram]("C:\Users\hp\Downloads\maxresdefault-Photoroom.png")
 
 ## 🔬 Waveform Example
 (Simulated using **GTKWave**)
-![FIFO Simulation](images/fifo_waveform.png)
+![FIFO Simulation]("C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-09-02 230622.png")
 
 ---
-✍️ Author: *Your Name*  
-📌 Ready to push directly into GitHub!
+✍️ Author: Hirdesh Pamnani  
