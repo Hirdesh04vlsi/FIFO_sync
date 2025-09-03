@@ -1,4 +1,17 @@
-FIFO Verilog Project
+# 🚀 Synchronous FIFO (Verilog) Project
+
+This repository contains a **Verilog implementation of a Synchronous FIFO** with testbench and diagrams.  
+The design is simple, parameterized, and easy to extend.
+
+## 📂 Repository Structure
+```
+verilog_fifo_repo/
+│── src/        # Verilog source code
+│   ├── sync_fifo.v
+│   └── tb_sync_fifo.v
+│── images/     # Block diagrams & visuals
+│── README.md   # Project overview
+```
 
 📌 Introduction
 
