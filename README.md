@@ -123,40 +123,6 @@ Separate read and write pointers.
 Can be adapted for synchronous or asynchronous design.
 
 
-
----
-
-🚀 How to Run the Project
-
-1. Clone this repository:
-
-git clone <repo-link>
-cd fifo-verilog
-
-
-2. Simulate using any Verilog simulator (ModelSim, Xilinx Vivado, Icarus Verilog, etc.):
-
-iverilog -o fifo_tb fifo.v fifo_tb.v
-vvp fifo_tb
-
-
-3. View waveforms with GTKWave (if installed):
-
-gtkwave fifo_tb.vcd
-
-
-
-
----
-
-🔮 Future Enhancements
-
-Add asynchronous FIFO support.
-
-Include parameterized burst read/write operations.
-
-Optimize design for low-power FPGA/ASIC implementation.
----
 📜 License
 
 This project is open-source under the MIT Licensing.
