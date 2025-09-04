@@ -3,22 +3,15 @@
 This repository contains a **Verilog implementation of a Synchronous FIFO** with testbench and diagrams.  
 The design is simple, parameterized, and easy to extend.
 
-## 📂 Repository Structure
-```
-verilog_fifo_repo/
-│── src/        # Verilog source code
-│   ├── sync_fifo.v
-│   └── tb_sync_fifo.v
-│── images/     # Block diagrams & visuals
-│── README.md   # Project overview
-```
-
 📌 Introduction
 
 This project implements a FIFO (First-In-First-Out) memory buffer using Verilog HDL.
 A FIFO is a fundamental data structure used in digital design and hardware systems for temporary data storage and transfer between components operating at different speeds.
 
 In hardware, FIFOs are widely used in communication systems, processors, and digital circuits to handle data flow without loss.
+
+<img width="1280" height="720" alt="maxresdefault-Photoroom" src="https://github.com/user-attachments/assets/5e7fe1cb-64fb-47a1-a32d-596a81df0d1c" />
+
 
 
 ---
@@ -102,6 +95,11 @@ fifo.v → Verilog code for FIFO implementation
 fifo_tb.v → Testbench to simulate FIFO behavior
 
 README.md → Project documentation (this file)
+
+
+Simulation Report
+
+<img width="1629" height="861" alt="Screenshot 2025-09-02 230622" src="https://github.com/user-attachments/assets/08582741-e1f5-45a1-bdf1-092ea3d5b2ca" />
 
 
 
