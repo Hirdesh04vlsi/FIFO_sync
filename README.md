@@ -27,6 +27,23 @@ In digital systems, a FIFO is implemented using registers, RAM, and control logi
 
 
 ---
+📂 Project Contents
+
+fifo.v → Verilog code for FIFO implementation
+
+fifo_tb.v → Testbench to simulate FIFO behavior
+
+README.md → Project documentation (this file)
+
+
+Simulation Report
+
+<img width="1629" height="861" alt="Screenshot 2025-09-02 230622" src="https://github.com/user-attachments/assets/08582741-e1f5-45a1-bdf1-092ea3d5b2ca" />
+
+
+
+---
+
 
 ⚡ Types of FIFO
 
@@ -88,22 +105,6 @@ Networking – packet buffering in routers/switches.
 
 ---
 
-📂 Project Contents
-
-fifo.v → Verilog code for FIFO implementation
-
-fifo_tb.v → Testbench to simulate FIFO behavior
-
-README.md → Project documentation (this file)
-
-
-Simulation Report
-
-<img width="1629" height="861" alt="Screenshot 2025-09-02 230622" src="https://github.com/user-attachments/assets/08582741-e1f5-45a1-bdf1-092ea3d5b2ca" />
-
-
-
----
 
 ⚙️ Features of the FIFO Implementation
 
